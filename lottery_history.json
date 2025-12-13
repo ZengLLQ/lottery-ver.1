@@ -1,0 +1,124 @@
+[
+  {
+    "timestamp": "2025-12-13 21:00:18",
+    "numbers": [
+      5,
+      9,
+      13,
+      25,
+      82,
+      152,
+      170
+    ],
+    "no_repeat": true,
+    "quantity": 7,
+    "max_value": 180
+  },
+  {
+    "timestamp": "2025-12-13 21:00:20",
+    "numbers": [
+      29,
+      38,
+      87,
+      93,
+      120,
+      127,
+      137
+    ],
+    "no_repeat": true,
+    "quantity": 7,
+    "max_value": 180
+  },
+  {
+    "timestamp": "2025-12-13 21:00:23",
+    "numbers": [
+      15,
+      34,
+      52,
+      61,
+      64,
+      89,
+      134
+    ],
+    "no_repeat": true,
+    "quantity": 7,
+    "max_value": 180
+  },
+  {
+    "timestamp": "2025-12-13 21:00:25",
+    "numbers": [
+      11,
+      40,
+      65,
+      81,
+      117,
+      161,
+      164
+    ],
+    "no_repeat": true,
+    "quantity": 7,
+    "max_value": 180
+  },
+  {
+    "timestamp": "2025-12-13 21:00:27",
+    "numbers": [
+      10,
+      55,
+      75,
+      85,
+      96,
+      103,
+      128
+    ],
+    "no_repeat": true,
+    "quantity": 7,
+    "max_value": 180
+  },
+  {
+    "timestamp": "2025-12-13 21:00:32",
+    "numbers": [
+      23,
+      102,
+      107,
+      112,
+      122,
+      124,
+      158,
+      169
+    ],
+    "no_repeat": true,
+    "quantity": 8,
+    "max_value": 180
+  },
+  {
+    "timestamp": "2025-12-13 21:00:35",
+    "numbers": [
+      50,
+      54,
+      56,
+      76,
+      79,
+      95,
+      123,
+      144
+    ],
+    "no_repeat": true,
+    "quantity": 8,
+    "max_value": 180
+  },
+  {
+    "timestamp": "2025-12-13 21:10:47",
+    "numbers": [
+      8,
+      20,
+      24,
+      59,
+      104,
+      126,
+      174
+    ],
+    "no_repeat": false,
+    "quantity": 7,
+    "max_value": 180
+  }
+]
